@@ -1,0 +1,2 @@
+#FahrenheitToCelsius
+Write a C# program named FahrenheitToCelsius that declares a variable to represent a Fahrenheit degree, and assigns a value to it. Then convert the Fahrenheit degree to Celsius degree by subtracting 32 from the Fahrenheit degree and multiplying the result by 5/9. Display both the Fahrenheit and Celsius degrees. This is not an interactive program (not accepting input from keyboard): you simply declare the Fahrenheit degree variable and assign a values to it, do necessary calculations and then display the results.
