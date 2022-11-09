@@ -1,0 +1,2 @@
+# HomeSales
+Danielle, Edward, and Francis are three salespeople at Holiday Homes. Write a program named HomeSales that prompts the user for a salesperson initial (D, E, or F ). Either uppercase or lowercase initials are valid. If an invalid initial is entered, issue "Invalid initial" and end the program. For any valid initial entered, further prompt a sales amount by the salesperson. Afterward, display the salesperson’s name and the sales amount for the salesperson (only display once. We will see how to repeatedly ask for salesperson's initial later).
