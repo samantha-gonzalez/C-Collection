@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\Admission\bin\Debug\Admission.exe.config
+C:\Users\sammy\source\repos\Admission\bin\Debug\Admission.exe
+C:\Users\sammy\source\repos\Admission\bin\Debug\Admission.pdb
+C:\Users\sammy\source\repos\Admission\obj\Debug\Admission.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\Admission\obj\Debug\Admission.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\Admission\obj\Debug\Admission.exe
+C:\Users\sammy\source\repos\Admission\obj\Debug\Admission.pdb

@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\MealPriceCalculation\bin\Debug\MealPriceCalculation.exe.config
+C:\Users\sammy\source\repos\MealPriceCalculation\bin\Debug\MealPriceCalculation.exe
+C:\Users\sammy\source\repos\MealPriceCalculation\bin\Debug\MealPriceCalculation.pdb
+C:\Users\sammy\source\repos\MealPriceCalculation\obj\Debug\MealPriceCalculation.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\MealPriceCalculation\obj\Debug\MealPriceCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\MealPriceCalculation\obj\Debug\MealPriceCalculation.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\MealPriceCalculation\obj\Debug\MealPriceCalculation.exe
+C:\Users\sammy\source\repos\MealPriceCalculation\obj\Debug\MealPriceCalculation.pdb

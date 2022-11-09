@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\ArraySudentID\obj\Debug\ArraySudentID.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\ArraySudentID\obj\Debug\ArraySudentID.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\ArraySudentID\obj\Debug\ArraySudentID.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\ArraySudentID\bin\Debug\ArraySudentID.exe.config
+C:\Users\sammy\source\repos\ArraySudentID\bin\Debug\ArraySudentID.exe
+C:\Users\sammy\source\repos\ArraySudentID\bin\Debug\ArraySudentID.pdb
+C:\Users\sammy\source\repos\ArraySudentID\obj\Debug\ArraySudentID.exe
+C:\Users\sammy\source\repos\ArraySudentID\obj\Debug\ArraySudentID.pdb

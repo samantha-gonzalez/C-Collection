@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\TestScoreArray\bin\Debug\TestScoreArray.exe.config
+C:\Users\sammy\source\repos\TestScoreArray\bin\Debug\TestScoreArray.exe
+C:\Users\sammy\source\repos\TestScoreArray\bin\Debug\TestScoreArray.pdb
+C:\Users\sammy\source\repos\TestScoreArray\obj\Debug\TestScoreArray.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\TestScoreArray\obj\Debug\TestScoreArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\TestScoreArray\obj\Debug\TestScoreArray.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\TestScoreArray\obj\Debug\TestScoreArray.exe
+C:\Users\sammy\source\repos\TestScoreArray\obj\Debug\TestScoreArray.pdb

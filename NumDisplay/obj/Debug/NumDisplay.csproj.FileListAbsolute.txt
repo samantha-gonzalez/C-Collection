@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\NumDisplay\bin\Debug\NumDisplay.exe.config
+C:\Users\sammy\source\repos\NumDisplay\bin\Debug\NumDisplay.exe
+C:\Users\sammy\source\repos\NumDisplay\bin\Debug\NumDisplay.pdb
+C:\Users\sammy\source\repos\NumDisplay\obj\Debug\NumDisplay.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\NumDisplay\obj\Debug\NumDisplay.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\NumDisplay\obj\Debug\NumDisplay.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\NumDisplay\obj\Debug\NumDisplay.exe
+C:\Users\sammy\source\repos\NumDisplay\obj\Debug\NumDisplay.pdb

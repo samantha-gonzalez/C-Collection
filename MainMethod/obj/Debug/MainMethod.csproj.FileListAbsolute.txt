@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\sammy\source\repos\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\sammy\source\repos\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\sammy\source\repos\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\MainMethod\obj\Debug\MainMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\sammy\source\repos\MainMethod\obj\Debug\MainMethod.pdb

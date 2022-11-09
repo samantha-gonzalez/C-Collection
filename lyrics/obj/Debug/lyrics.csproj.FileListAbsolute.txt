@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\lyrics\bin\Debug\lyrics.exe.config
+C:\Users\sammy\source\repos\lyrics\bin\Debug\lyrics.exe
+C:\Users\sammy\source\repos\lyrics\bin\Debug\lyrics.pdb
+C:\Users\sammy\source\repos\lyrics\obj\Debug\lyrics.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\lyrics\obj\Debug\lyrics.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\lyrics\obj\Debug\lyrics.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\lyrics\obj\Debug\lyrics.exe
+C:\Users\sammy\source\repos\lyrics\obj\Debug\lyrics.pdb

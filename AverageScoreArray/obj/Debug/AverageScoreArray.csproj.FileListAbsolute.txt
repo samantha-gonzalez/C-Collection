@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\AverageScoreArray\bin\Debug\AverageScoreArray.exe.config
+C:\Users\sammy\source\repos\AverageScoreArray\bin\Debug\AverageScoreArray.exe
+C:\Users\sammy\source\repos\AverageScoreArray\bin\Debug\AverageScoreArray.pdb
+C:\Users\sammy\source\repos\AverageScoreArray\obj\Debug\AverageScoreArray.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\AverageScoreArray\obj\Debug\AverageScoreArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\AverageScoreArray\obj\Debug\AverageScoreArray.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\AverageScoreArray\obj\Debug\AverageScoreArray.exe
+C:\Users\sammy\source\repos\AverageScoreArray\obj\Debug\AverageScoreArray.pdb

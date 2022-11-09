@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\CalSalesM\bin\Debug\CalSalesM.exe.config
+C:\Users\sammy\source\repos\CalSalesM\bin\Debug\CalSalesM.exe
+C:\Users\sammy\source\repos\CalSalesM\bin\Debug\CalSalesM.pdb
+C:\Users\sammy\source\repos\CalSalesM\obj\Debug\CalSalesM.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\CalSalesM\obj\Debug\CalSalesM.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\CalSalesM\obj\Debug\CalSalesM.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\CalSalesM\obj\Debug\CalSalesM.exe
+C:\Users\sammy\source\repos\CalSalesM\obj\Debug\CalSalesM.pdb

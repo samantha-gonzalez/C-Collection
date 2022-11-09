@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\PaintingEstimate\bin\Debug\PaintingEstimate.exe.config
+C:\Users\sammy\source\repos\PaintingEstimate\bin\Debug\PaintingEstimate.exe
+C:\Users\sammy\source\repos\PaintingEstimate\bin\Debug\PaintingEstimate.pdb
+C:\Users\sammy\source\repos\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\PaintingEstimate\obj\Debug\PaintingEstimate.exe
+C:\Users\sammy\source\repos\PaintingEstimate\obj\Debug\PaintingEstimate.pdb

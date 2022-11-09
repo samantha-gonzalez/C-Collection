@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\GreenvilleMotto2\bin\Debug\GreenvilleMotto2.exe.config
+C:\Users\sammy\source\repos\GreenvilleMotto2\bin\Debug\GreenvilleMotto2.exe
+C:\Users\sammy\source\repos\GreenvilleMotto2\bin\Debug\GreenvilleMotto2.pdb
+C:\Users\sammy\source\repos\GreenvilleMotto2\obj\Debug\GreenvilleMotto2.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\GreenvilleMotto2\obj\Debug\GreenvilleMotto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\GreenvilleMotto2\obj\Debug\GreenvilleMotto2.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\GreenvilleMotto2\obj\Debug\GreenvilleMotto2.exe
+C:\Users\sammy\source\repos\GreenvilleMotto2\obj\Debug\GreenvilleMotto2.pdb

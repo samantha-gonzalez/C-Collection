@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\HomeSales\bin\Debug\HomeSales.exe.config
+C:\Users\sammy\source\repos\HomeSales\bin\Debug\HomeSales.exe
+C:\Users\sammy\source\repos\HomeSales\bin\Debug\HomeSales.pdb
+C:\Users\sammy\source\repos\HomeSales\obj\Debug\HomeSales.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\HomeSales\obj\Debug\HomeSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\HomeSales\obj\Debug\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\HomeSales\obj\Debug\HomeSales.exe
+C:\Users\sammy\source\repos\HomeSales\obj\Debug\HomeSales.pdb

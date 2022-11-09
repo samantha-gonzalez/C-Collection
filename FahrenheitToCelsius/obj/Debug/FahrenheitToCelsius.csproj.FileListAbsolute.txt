@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.exe.config
+C:\Users\sammy\source\repos\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.exe
+C:\Users\sammy\source\repos\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.pdb
+C:\Users\sammy\source\repos\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.exe
+C:\Users\sammy\source\repos\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.pdb
