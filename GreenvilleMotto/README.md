@@ -1,0 +1,2 @@
+# GreenvilleMotto
+Greenville County hosts the Greenville Idol competition each summer during the county fair. The talent competition takes place over a three-day period during which contestants are eliminated following rounds of performances until the year’s ultimate winner is chosen. Write a program named GreenvilleMotto that displays the competition’s motto, which is “The stars shine in Greenville.” Make sure the motto is surrounded by a border composed of asterisks.
