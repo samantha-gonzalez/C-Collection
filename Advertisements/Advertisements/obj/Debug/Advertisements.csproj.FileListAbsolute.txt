@@ -1,0 +1,8 @@
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\bin\Debug\Advertisements.exe.config
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\bin\Debug\Advertisements.exe
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\bin\Debug\Advertisements.pdb
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\obj\Debug\Advertisements.csproj.AssemblyReference.cache
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\obj\Debug\Advertisements.csproj.SuggestedBindingRedirects.cache
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\obj\Debug\Advertisements.csproj.CoreCompileInputs.cache
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\obj\Debug\Advertisements.exe
+C:\Users\zz-samgonzalez\source\repos\Advertisements\Advertisements\obj\Debug\Advertisements.pdb

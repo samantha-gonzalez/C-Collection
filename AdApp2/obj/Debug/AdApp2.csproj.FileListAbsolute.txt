@@ -1,0 +1,8 @@
+C:\Users\zz-samgonzalez\source\repos\AdApp2\bin\Debug\AdApp2.exe.config
+C:\Users\zz-samgonzalez\source\repos\AdApp2\bin\Debug\AdApp2.exe
+C:\Users\zz-samgonzalez\source\repos\AdApp2\bin\Debug\AdApp2.pdb
+C:\Users\zz-samgonzalez\source\repos\AdApp2\obj\Debug\AdApp2.csproj.AssemblyReference.cache
+C:\Users\zz-samgonzalez\source\repos\AdApp2\obj\Debug\AdApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zz-samgonzalez\source\repos\AdApp2\obj\Debug\AdApp2.csproj.CoreCompileInputs.cache
+C:\Users\zz-samgonzalez\source\repos\AdApp2\obj\Debug\AdApp2.exe
+C:\Users\zz-samgonzalez\source\repos\AdApp2\obj\Debug\AdApp2.pdb
