@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\TestSoccerPlayer\bin\Debug\SoccerPlayer.exe.config
+C:\Users\sammy\source\repos\TestSoccerPlayer\bin\Debug\SoccerPlayer.exe
+C:\Users\sammy\source\repos\TestSoccerPlayer\bin\Debug\SoccerPlayer.pdb
+C:\Users\sammy\source\repos\TestSoccerPlayer\obj\Debug\SoccerPlayer.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\TestSoccerPlayer\obj\Debug\SoccerPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\TestSoccerPlayer\obj\Debug\SoccerPlayer.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\TestSoccerPlayer\obj\Debug\SoccerPlayer.exe
+C:\Users\sammy\source\repos\TestSoccerPlayer\obj\Debug\SoccerPlayer.pdb

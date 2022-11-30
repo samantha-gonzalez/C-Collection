@@ -1,0 +1,8 @@
+C:\Users\sammy\source\repos\AdApp4\bin\Debug\AdApp4.exe.config
+C:\Users\sammy\source\repos\AdApp4\bin\Debug\AdApp4.exe
+C:\Users\sammy\source\repos\AdApp4\bin\Debug\AdApp4.pdb
+C:\Users\sammy\source\repos\AdApp4\obj\Debug\AdApp4.csproj.AssemblyReference.cache
+C:\Users\sammy\source\repos\AdApp4\obj\Debug\AdApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sammy\source\repos\AdApp4\obj\Debug\AdApp4.csproj.CoreCompileInputs.cache
+C:\Users\sammy\source\repos\AdApp4\obj\Debug\AdApp4.exe
+C:\Users\sammy\source\repos\AdApp4\obj\Debug\AdApp4.pdb
