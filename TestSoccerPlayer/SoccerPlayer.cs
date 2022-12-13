@@ -15,8 +15,9 @@ class TestSoccerPlayer
         player.Assists = Convert.ToInt32(ReadLine());
         player.CalPoints();
 
-        WriteLine("\n\nThe Player is {0}. Jersey number is #{1}.\nGoals: {2}. Assists: {3}.\nTotal points earned: {4}\n", 
-                  player.Name, player.Number, player.Goals, player.Assists, player.Points);
+        WriteLine("\n\nThe Player is {0}. Jersey number is #{1}.\nGoals: 
+        {2}. Assists: {3}.\nTotal points earned: {4}\n", player.Name, 
+        player.Number, player.Goals, player.Assists, player.Points);
     }
 }
 
